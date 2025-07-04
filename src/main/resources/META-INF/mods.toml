@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL="https://github.com/moddedhealth/moddedhealth/issues"
+
+[[mods]]
+modId="moddedhealth"
+version="1.0.0"
+displayName="Modded Health"
+description='''
+A mod that displays entity health above each entity in the world.
+'''
+credits=""
+authors="ModdedHealth Team"
+displayURL="https://github.com/moddedhealth/moddedhealth"
+
+[[dependencies.moddedhealth]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.moddedhealth]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

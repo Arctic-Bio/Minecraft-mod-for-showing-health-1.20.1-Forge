@@ -1,0 +1,11 @@
+{
+  "key.categories.moddedhealth": "Modded Health",
+  "key.moddedhealth.toggle_health_display": "Toggle Health Display",
+  "moddedhealth.config.title": "Modded Health Configuration",
+  "moddedhealth.config.enabled": "Enable Health Display",
+  "moddedhealth.config.maxDistance": "Maximum Distance",
+  "moddedhealth.config.showPlayers": "Show Player Health",
+  "moddedhealth.config.showHostileMobs": "Show Hostile Mob Health",
+  "moddedhealth.config.showPassiveMobs": "Show Passive Mob Health",
+  "moddedhealth.config.showPercentage": "Show as Percentage"
+}

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: moddedhealth
+Specification-Vendor: moddedhealth
+Specification-Version: 1
+Implementation-Title: moddedhealth
+Implementation-Version: 1.0.0
+Implementation-Vendor: moddedhealth
+Implementation-Timestamp: 2025-07-03T19:00:17-0700
+
